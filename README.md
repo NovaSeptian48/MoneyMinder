@@ -14,9 +14,9 @@ Kelebihan lainnya adalah kemudahan akses tanpa memerlukan koneksi data seluler a
 
 # Link Web
 
-https://pendidikan-ti.ft.unesa.ac.id
-https://unesa.ac.id
-https://ft.unesa.ac.id)
+- https://pendidikan-ti.ft.unesa.ac.id
+- https://unesa.ac.id
+- https://ft.unesa.ac.id)
 
 # Fitur Fitur Aplikasi
 
